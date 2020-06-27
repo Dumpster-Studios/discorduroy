@@ -1,6 +1,6 @@
 # Discord for Minetest
 ____
-######_Part of the SolarSail family._
+_Part of the SolarSail family._
 ### Notice:
 
 This mod requires LuaJIT; attempts at running it as a standard Lua interpreter will result in Minetest failing to execute this mod.
