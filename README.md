@@ -1,5 +1,4 @@
 # Discord for Minetest
-____
 _Part of the SolarSail family._
 ### Notice:
 
