@@ -54,3 +54,5 @@ This mod (`main.go` and `init.lua`) is licensed as MIT.
 Discord.lua is licensed as MIT and can be found here: https://github.com/videah/discord.lua
 
 `luajit-request`'s license can be found at `discord/discord/luajit-request/LICENSE`
+
+The included cURL binaries are licensed MIT.
